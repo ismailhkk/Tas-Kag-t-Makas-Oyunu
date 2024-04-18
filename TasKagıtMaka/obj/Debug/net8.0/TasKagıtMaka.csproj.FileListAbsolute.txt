@@ -1,0 +1,14 @@
+D:\Works\TasKagıtMaka\bin\Debug\net8.0\TasKagıtMaka.exe
+D:\Works\TasKagıtMaka\bin\Debug\net8.0\TasKagıtMaka.deps.json
+D:\Works\TasKagıtMaka\bin\Debug\net8.0\TasKagıtMaka.runtimeconfig.json
+D:\Works\TasKagıtMaka\bin\Debug\net8.0\TasKagıtMaka.dll
+D:\Works\TasKagıtMaka\bin\Debug\net8.0\TasKagıtMaka.pdb
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.AssemblyInfoInputs.cache
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.AssemblyInfo.cs
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.csproj.CoreCompileInputs.cache
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.dll
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\refint\TasKagıtMaka.dll
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.pdb
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\TasKagıtMaka.genruntimeconfig.cache
+D:\Works\TasKagıtMaka\obj\Debug\net8.0\ref\TasKagıtMaka.dll
